@@ -1,1 +1,3 @@
-# WasteUber-hullad-kkezel-telefonos-applik-ci-fejleszt-sze
+WasteUber hulladékkezelő telefonos applikáció fejlesztésze
+
+A fájlokban megtalálható minden, amit Chatgpt segítségével generáltam.
